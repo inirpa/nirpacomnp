@@ -1678,7 +1678,7 @@ input,textarea {
 		-webkit-box-direction: normal;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
-		flex-direction: column
+		flex-direction: row;
 	}
 
 	.footer__copyright {
@@ -1704,6 +1704,7 @@ input,textarea {
 @media (max-width: 767px) {
 	.tech-stack-img, .logo-img{height: 50px; margin-right: 15px;}
 	.contact-img{display: none;}
+	.footer-logo-mark{font-size: 20px;}
 }
 
 /* width */
