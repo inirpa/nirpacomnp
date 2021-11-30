@@ -363,7 +363,7 @@ input,textarea {
 	left: 0;
 	right: 45px;
 	bottom: 0;
-	border: 10px solid #2046f2;
+	border: 10px solid #585858;
 	-webkit-animation: fadeInOut 1.6s linear infinite;
 	animation: fadeInOut 1.6s linear infinite
 }
@@ -904,7 +904,7 @@ input,textarea {
 	left: 0;
 	right: 120px;
 	bottom: 45px;
-	border: 10px solid #2046f2
+	border: 10px solid #585858;
 }
 
 .about__visual {
